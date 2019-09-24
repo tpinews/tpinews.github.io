@@ -58,12 +58,10 @@ canonifyURLs = true
     googleplus = true
     linkedin = true
     email = true
-
 [params.privacy]
 enable = true # false implies switching on tracking application, you can individually turn off applications that you don't want. If enable = true, then all tracking apps are switched off
 facebook_like = true
 DisqusShortname = "tabloidpendidikanid"
-
 [social]
 # Add your social network accounts to the profile section on the left
 # by entering your username. The links to your account will be
@@ -81,7 +79,6 @@ DisqusShortname = "tabloidpendidikanid"
     facebook        = "tabloidpendidikanid"
     twitter         = "tabloidpendidikanid"
     email           = "admin@indonesiadot.com"	
-
 # Enable and disable widgets for the right sidebar
 [params.widgets]
     recent_articles = true
