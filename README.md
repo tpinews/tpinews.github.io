@@ -1,2 +1,2 @@
 # Bacasaya
-branch: master
+branch: hugo
