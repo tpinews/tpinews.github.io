@@ -11,3 +11,4 @@ Ini adalah halaman kontak TPI
 
 Tabloid Pendidikan Indonesia
 
+Terima kasih
