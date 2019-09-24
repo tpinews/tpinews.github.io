@@ -17,21 +17,17 @@ canonifyURLs = true
 #    logo = "logo.png"
     title_in_logo = true # set to true if you want the title along with the logo
     disable_mathjax = true # set to true to disable MathJax
-
     # Format dates with Go's time formatting
     date_format = "02 January, 2006"
-
     # Add custom assets with their paths relative to the static folder
     custom_css = []
     custom_js  = []
-
 # Create custom menu entries by defining a label and a link for
 # them. Since you can also link posts, you've the option the
 # place the links before or after them.
 #
 # E.g.: "Home" appears before all linked posts in the menu
 # and "Tags" / "Categories" after them.
-
 
 [[menu.main]]
     name  = "About"
@@ -108,4 +104,3 @@ DisqusShortname = "tabloidpendidikanid"
     tags = "tags"
     categories = "categories"
     author = "author"
-
