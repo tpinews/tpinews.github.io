@@ -7,4 +7,4 @@ disable_comments: true
 
 ---
 
-Ini adalah halaman mengenai TPI News 2
+Portal TPI News adalah portal berita dari Tabloid Pendidikan Indonesia
