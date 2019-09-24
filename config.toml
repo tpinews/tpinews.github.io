@@ -33,19 +33,16 @@ canonifyURLs = true
     name  = "About"
     url   = "/about/"
     weight = 10
-    
 [[menu.main]]
     name  = "Visi Misi"
     url   = "/visi-misi/"
     parent = "About"
     weight = 10
-
 [[menu.main]]
     name  = "Future"
     url   = "/future/"
     parent = "About"
     weight = 20
-
 [[menu.main]]
     name  = "Kontak"
     url   = "/contact/"

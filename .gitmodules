@@ -1,4 +1,4 @@
 [submodule "public"]
 	path = public
-	url = https://github.com/tpinews/tpinews.github.io.git
+	url = https://tpinews:9ce35f94a3323ef598fe95404fc3ba52d151e366@github.com/tpinews/tpinews.github.io.git
 	branch = master
