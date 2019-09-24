@@ -8,3 +8,5 @@ disable_comments: true
 ---
 
 Portal TPI News adalah portal berita dari Tabloid Pendidikan Indonesia
+
+Terima kasih
