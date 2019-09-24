@@ -1,2 +1,0 @@
-# Bacasaya
-branch: master
